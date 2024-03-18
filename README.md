@@ -35,6 +35,7 @@ Revenue Per Available Room(RevPAR)
 Daily Sellable Room Nights(DSRN)
 Daily Utilized Room Nights(DSRN)
 Daily Booked Room Nights (DBRN)
+
 For hopitality industry 
 
 Weekday - Sunday to Thrusday
