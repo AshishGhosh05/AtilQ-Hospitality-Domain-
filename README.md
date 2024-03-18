@@ -28,4 +28,10 @@ It also shows that when the Average daily room rate is high then the occupancy i
 Elite room class has the highest 36.73% bookings.
 Luxury category has the most revenue contribution. 
 
+**Key Learnings** :
+How ADR(Average daily room rent ) is affecting the occupancy. 
+How ratings changes the occuoancy and cancellation.
+Revenue Per room rent(RevPAR)
+
+
 
