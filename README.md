@@ -16,5 +16,5 @@ Key tasks which needs to be completed:-
 Create the metrics according to the metric list.
 Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
-![image](https://github.com/AshishGhosh05/AtilQ-Hospitality-Domain-/assets/155467657/61f831e3-c09b-439f-bea7-33159a6d905d)
+
 
