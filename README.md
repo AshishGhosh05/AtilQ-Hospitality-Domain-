@@ -18,19 +18,19 @@ Create a dashboard according to the mock-up provided by stakeholders.
 Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 **Insights** : 
-Mumbai is the highest revenue contribution followed by Bangalore.
-Property name and revenue contribution graph shows that AtliQ Exotica has the highest revenue about 18.77%.
-About 64.78% revenue has generated in weekdays.
-Booking platform donut chart shows that 19.74% bookings coming from makeyourtrip and 40.95 % others platform.
-AtliQ Blu has the highest average ratings i.e 3.96 while AtliQ Seasons has the lowest average rating i.e 2.29.
+Mumbai is the highest revenue contributor followed by Bangalore.
+The property name and revenue contribution graph shows that AtliQ Exotica has the highest revenue about 18.77%.
+About 64.78% of revenue is generated on weekdays.
+The booking platform donut chart shows that 19.74% of bookings come from makeyourtrip and 40.95 % from other platforms.
+AtliQ Blu has the highest average rating i.e. 3.96 while AtliQ Seasons has the lowest average rating i.e. 2.29.
  When the rating is high then occupancy is also high and vice versa. 
 It also shows that when the Average daily room rate is high then the occupancy is low.
 Elite room class has the highest 36.73% bookings.
-Luxury category has the most revenue contribution. 
+The luxury category has the most revenue contribution. 
 
 **Key Learnings** :
 How ADR(Average daily rent ) is affecting the occupancy. 
-How ratings changes the occuoancy and cancellation.
+How ratings change the occupancy and cancellation.
 Revenue Per Available Room(RevPAR)
 Daily Sellable Room Nights(DSRN)
 Daily Utilized Room Nights(DSRN)
@@ -38,8 +38,8 @@ Daily Booked Room Nights (DBRN)
 
 For hopitality industry 
 
-Weekday - Sunday to Thrusday
-Weekends- Friday to Saterday
+Weekday - Sunday to Thursday
+Weekends- Friday to Saturday.
 
 
 
